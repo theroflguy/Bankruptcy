@@ -61,3 +61,4 @@ st.write('Non Bankruptcy' if prediction_proba[0][1] > 0.5 else 'Bankruptcy')
 
 st.subheader('prediction probability ')
 st.write(prediction_proba)
+#https://bankruptcy-analysis.herokuapp.com/
